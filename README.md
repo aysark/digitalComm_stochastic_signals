@@ -1,13 +1,5 @@
 ## Stochastic Signals, Filtering, Modulation & Demodulation
 
-CSE4214 Lab 1
-
-Aysar Khalid
-
-10/9/14
-
-## 
-
 
 
 
